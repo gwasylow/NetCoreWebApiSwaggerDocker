@@ -1,0 +1,2 @@
+# NetCoreWebApiSwaggerDocker
+NetCoreWebApi Swagger Docker
